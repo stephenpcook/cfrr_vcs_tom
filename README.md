@@ -1,4 +1,4 @@
 # cfrr_vcs
 
 *credit:
-Tom Wilson*
+Tom Wilson, Stephen Cook*
